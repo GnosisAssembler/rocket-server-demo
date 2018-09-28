@@ -1,0 +1,9 @@
+[package]
+name = "rocket-server-demo"
+version = "0.1.0"
+authors = ["ninja-mangust"]
+edition = "2018"
+
+[dependencies]
+rocket = "0.3.16"
+rocket_codegen = "0.3.16"
