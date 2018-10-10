@@ -1,4 +1,7 @@
 # Rocket-server-demo
+
+![status completed](https://img.shields.io/badge/status-completed-blue.svg)
+
 A Rust based demo server using Rocket
 
 ### Set rust nightly
@@ -8,6 +11,6 @@ rustup override set nightly
 ```
 
 ### Start the rocket server
-```
+```rust
 cargo run
 ```
